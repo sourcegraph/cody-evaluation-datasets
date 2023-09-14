@@ -1,0 +1,5 @@
+{
+  "generate": "generated.py",
+  "solution": "solution.py",
+  "test": "test.py"
+}
