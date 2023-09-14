@@ -17,4 +17,4 @@ def remove_vowels(text):
     >>> remove_vowels('zbcd')
     'zbcd'
     """
-    return "".join([s for s in text if s<CODY_COMPLETE_HERE> not in ["a", "e", "i", "o", "u"]])
+    return "".join([s for s in text if s🔥 not in ["a", "e", "i", "o", "u"]])

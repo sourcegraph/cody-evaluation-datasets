@@ -12,5 +12,5 @@ def can_arrange(arr):
     """
     ind=-1
     i=1
-    <CODY_COMPLETE_HERE>
+    🔥
     return ind

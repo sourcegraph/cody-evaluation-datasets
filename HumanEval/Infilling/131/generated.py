@@ -10,7 +10,7 @@ def digits(n):
     """
     product = 1
     odd_count = 0
-    <CODY_COMPLETE_HERE>
+    🔥
     if odd_count ==0:
         return 0
     else:

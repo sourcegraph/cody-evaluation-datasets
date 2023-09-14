@@ -8,5 +8,5 @@ def greatest_common_divisor(a: int, b: int) -> int:
     >>> greatest_common_divisor(25, 15)
     5
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return a

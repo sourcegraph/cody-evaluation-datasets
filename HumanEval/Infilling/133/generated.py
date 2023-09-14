@@ -14,7 +14,7 @@ def sum_squares(lst):
     
 
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     for i in lst:
         squared += math.ceil(i)**2
     return squared

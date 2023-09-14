@@ -36,5 +36,5 @@ def move_one_ball(arr):
     min_index=arr.index(min_value)
     my_arr=arr[min_index:]+arr[0:min_index]
     for i in range(len(arr)):
-       <CODY_COMPLETE_HERE>
+       🔥
     return True

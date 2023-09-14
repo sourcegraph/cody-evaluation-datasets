@@ -16,5 +16,5 @@ def correct_bracketing(brackets: str):
     """
     depth = 0
     for b in brackets:
-        <CODY_COMPLETE_HERE>
+        🔥
     return depth == 0

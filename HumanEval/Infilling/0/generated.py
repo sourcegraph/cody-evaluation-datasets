@@ -12,7 +12,7 @@ def has_close_elements(numbers: List[float], threshold: float) -> bool:
     """
     for idx, elem in enumerate(numbers):
         for idx2, elem2 in enumerate(numbers):
-            <CODY_COMPLETE_HERE>
+            🔥
                 if distance < threshold:
                     return True
 

@@ -15,5 +15,5 @@ def words_string(s):
     s_list = []
 
     for letter in s:
-        <CODY_COMPLETE_HERE>
+        🔥
     return s_list.split()

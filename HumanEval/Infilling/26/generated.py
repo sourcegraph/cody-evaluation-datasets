@@ -8,5 +8,5 @@ def remove_duplicates(numbers: List[int]) -> List[int]:
     >>> remove_duplicates([1, 2, 3, 2, 4])
     [1, 3, 4]
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return [n for n in numbers if c[n] <= 1]

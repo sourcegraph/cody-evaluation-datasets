@@ -14,5 +14,5 @@ def is_palindrome(text: str):
     False
     """
     for i in range(len(text)):
-        <CODY_COMPLETE_HERE>
+        🔥
     return True

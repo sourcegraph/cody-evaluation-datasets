@@ -14,4 +14,4 @@ def solve(N):
     Output:
          a string of binary number
     """
-    return bin(<CODY_COMPLETE_HERE>)[2:]
+    return bin(🔥)[2:]

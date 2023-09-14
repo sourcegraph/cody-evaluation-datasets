@@ -27,5 +27,5 @@ def maximum(arr, k):
     """
     if k == 0:
         return []
-    <CODY_COMPLETE_HERE>
+    🔥
     return ans

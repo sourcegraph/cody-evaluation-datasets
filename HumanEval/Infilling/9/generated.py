@@ -12,7 +12,7 @@ def rolling_max(numbers: List[int]) -> List[int]:
     result = []
 
     for n in numbers:
-        <CODY_COMPLETE_HERE>
+        🔥
 
         result.append(running_max)
 

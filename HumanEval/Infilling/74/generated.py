@@ -14,7 +14,7 @@ def total_match(lst1, lst2):
     total_match(['hi', 'admin'], ['hI', 'hi', 'hi']) ➞ ['hI', 'hi', 'hi']
     total_match(['4'], ['1', '2', '3', '4', '5']) ➞ ['4']
     '''
-    <CODY_COMPLETE_HERE>
+    🔥
     
     if l1 <= l2:
         return lst1

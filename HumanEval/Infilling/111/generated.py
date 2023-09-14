@@ -20,5 +20,5 @@ def histogram(test):
     for i in list1:
         if(list1.count(i)>t) and i!='':
             t=list1.count(i)
-    <CODY_COMPLETE_HERE>
+    🔥
     return dict1

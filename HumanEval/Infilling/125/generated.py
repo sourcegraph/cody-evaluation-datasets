@@ -15,4 +15,4 @@ def split_words(txt):
     elif "," in txt:
         return txt.replace(',',' ').split()
     else:
-        return len([<CODY_COMPLETE_HERE>ord(i)%2 == 0])
+        return len([🔥ord(i)%2 == 0])

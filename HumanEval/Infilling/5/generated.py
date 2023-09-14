@@ -14,7 +14,7 @@ def intersperse(numbers: List[int], delimeter: int) -> List[int]:
 
     result = []
 
-    for n in numbers<CODY_COMPLETE_HERE>
+    for n in numbers🔥
 
     result.append(numbers[-1])
 

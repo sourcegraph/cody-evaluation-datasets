@@ -9,7 +9,7 @@ def prime_length(string):
     prime_length('kittens') == True
     prime_length('orange') == False
     """
-    <CODY_COMPLETE_HERE>
+    🔥
         if l % i == 0:
             return False
     return True

@@ -14,4 +14,4 @@ def common(l1: list, l2: list):
         for e2 in l2:
             if e1 == e2:
                 ret.add(e1)
-    return <CODY_COMPLETE_HERE>ret))
+    return 🔥ret))

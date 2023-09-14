@@ -10,4 +10,4 @@ def derivative(xs: list):
     >>> derivative([1, 2, 3])
     [2, 6]
     """
-    return [(i * x) for i, x in enumerate(xs)]<CODY_COMPLETE_HERE>
+    return [(i * x) for i, x in enumerate(xs)]🔥

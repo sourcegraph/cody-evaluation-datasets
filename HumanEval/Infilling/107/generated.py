@@ -31,6 +31,6 @@ def even_odd_palindrome(n):
 
     for i in range(1, n+1):
         if i%2 == 1 and is_palindrome(i):
-            <CODY_COMPLETE_HERE>
+            🔥
             even_palindrome_count += 1
     return (even_palindrome_count, odd_palindrome_count)

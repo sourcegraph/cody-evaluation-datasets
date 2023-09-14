@@ -26,5 +26,5 @@ def do_algebra(operator, operand):
 
     """
     expression = str(operand[0])
-    <CODY_COMPLETE_HERE>
+    🔥
     return eval(expression)

@@ -10,5 +10,5 @@ def fib(n: int):
     >>> fib(8)
     21
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return fib(n - 1) + fib(n - 2)

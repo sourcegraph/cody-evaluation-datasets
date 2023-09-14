@@ -28,7 +28,7 @@ def find_zero(xs: list):
         end *= 2.0
     while end - begin > 1e-10:
         center = (begin + end) / 2.0
-        if<CODY_COMPLETE_HERE>:
+        if🔥:
             begin = center
         else:
             end = center

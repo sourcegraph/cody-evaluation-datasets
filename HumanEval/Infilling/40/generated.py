@@ -20,5 +20,5 @@ def triples_sum_to_zero(l: list):
     """
     for i in range(len(l)):
         for j in range(i + 1, len(l)):
-            <CODY_COMPLETE_HERE>
+            🔥
     return False

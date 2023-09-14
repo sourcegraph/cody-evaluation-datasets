@@ -8,4 +8,4 @@ def string_to_md5(text):
     >>> string_to_md5('Hello world') == '3e25960a79dbc69b674cd4ec67a72c62'
     """
     import hashlib
-    return <CODY_COMPLETE_HERE>if text else None
+    return 🔥if text else None

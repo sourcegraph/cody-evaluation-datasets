@@ -18,5 +18,5 @@ def get_max_triples(n):
     ans = []
     for i in range(n):
         for j in range(i+1,n):
-            <CODY_COMPLETE_HERE>
+            🔥
     return len(ans)

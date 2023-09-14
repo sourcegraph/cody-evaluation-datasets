@@ -13,6 +13,6 @@ def below_zero(operations: List[int]) -> bool:
     """
     balance = 0
 
-    for op in o<CODY_COMPLETE_HERE>
+    for op in o🔥
 
     return False

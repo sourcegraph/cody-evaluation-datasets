@@ -18,5 +18,5 @@ def exchange(lst1, lst2):
     for i in lst1:
         if i%2 == 1:
             odd += 1
-    <CODY_COMPLETE_HERE>
+    🔥
     return "NO"

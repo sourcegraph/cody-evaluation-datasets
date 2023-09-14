@@ -13,7 +13,7 @@ def sort_even(l: list):
     evens = l[::2]
     odds = l[1::2]
     evens.sort()
-    <CODY_COMPLETE_HERE>
+    🔥
     if len(evens) > len(odds):
         ans.append(evens[-1])
     return ans

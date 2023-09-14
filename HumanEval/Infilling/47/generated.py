@@ -10,6 +10,6 @@ def median(l: list):
     """
     l = sorted(l)
     if len(l) % 2 == 0:
-        <CODY_COMPLETE_HERE>        
+        🔥        
     return l[len(l) // 2]
 

@@ -26,6 +26,6 @@ def prime_fib(n: int):
         return True
     f = [0, 1]
     while True:
-        <CODY_COMPLETE_HERE>
+        🔥
         if n == 0:
             return f[-1]

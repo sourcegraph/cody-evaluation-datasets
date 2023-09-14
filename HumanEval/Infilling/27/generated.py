@@ -6,4 +6,4 @@ def flip_case(string: str) -> str:
     >>> flip_case('Hello')
     'hELLO'
     """
-    return string<CODY_COMPLETE_HERE>
+    return string🔥

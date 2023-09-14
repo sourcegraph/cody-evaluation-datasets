@@ -14,5 +14,5 @@ def change_base(x: int, base: int):
     """
     ret = ""
     while x > 0:
-        <CODY_COMPLETE_HERE>
+        🔥
     return ret

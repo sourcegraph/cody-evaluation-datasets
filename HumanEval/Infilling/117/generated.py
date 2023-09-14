@@ -17,7 +17,7 @@ def select_words(s, n):
     for word in s.split():
         n_consonants = 0
         for i in range(0, len(word)):
-            if word[i]<CODY_COMPLETE_HERE>:
+            if word[i]🔥:
                 n_consonants += 1 
         if n_consonants == n:
             result.append(word)

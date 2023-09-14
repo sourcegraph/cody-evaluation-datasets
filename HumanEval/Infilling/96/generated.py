@@ -13,7 +13,7 @@ def count_up_to(n):
     """
     primes = []
     for i in range(2, n):
-        i<CODY_COMPLETE_HERE>
+        i🔥
         if is_prime:
             primes.append(i)
     return primes

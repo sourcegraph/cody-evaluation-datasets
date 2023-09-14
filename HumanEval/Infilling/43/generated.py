@@ -18,5 +18,5 @@ def pairs_sum_to_zero(l):
     False
     """
     for i, l1 in enumerate(l):
-        <CODY_COMPLETE_HERE>
+        🔥
     return False

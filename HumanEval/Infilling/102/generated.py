@@ -9,7 +9,7 @@ def choose_num(x, y):
     choose_num(12, 15) = 14
     choose_num(13, 12) = -1
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     if x == y:
         return -1
     return y - 1

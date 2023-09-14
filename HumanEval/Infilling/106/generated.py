@@ -15,5 +15,5 @@ def f(n):
             x = 1
             for j in range(1,i+1): x *= j
             ret += [x]
-        <CODY_COMPLETE_HERE>
+        🔥
     return ret

@@ -15,7 +15,7 @@ def is_nested(string):
     '''
     opening_bracket_index = []
     closing_bracket_index = []
-    <CODY_COMPLETE_HERE>
+    🔥
     for idx in opening_bracket_index:
         if i < l and idx < closing_bracket_index[i]:
             cnt += 1

@@ -19,7 +19,7 @@ def tri(n):
     """
     if n == 0:
         return [1]
-    my_t<CODY_COMPLETE_HERE>
+    my_t🔥
         else:
             my_tri.append(i / 2 + 1)
     return my_tri

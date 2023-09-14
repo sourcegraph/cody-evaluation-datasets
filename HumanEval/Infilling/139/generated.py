@@ -13,6 +13,6 @@ def special_factorial(n):
     factorial of this integer.
     """
 
-    <CODY_COMPLETE_HERE>
+    🔥
         special_fact *= fact_i
     return special_fact

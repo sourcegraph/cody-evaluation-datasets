@@ -13,5 +13,5 @@ def smallest_change(arr):
     """
     ans = 0
     for i in range(len(arr) // 2):
-    <CODY_COMPLETE_HERE>
+    🔥
     return ans

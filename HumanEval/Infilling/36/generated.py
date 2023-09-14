@@ -12,7 +12,7 @@ def fizz_buzz(n: int):
     """
     ns = []
     for i in range(n):
-        if<CODY_COMPLETE_HERE>:
+        if🔥:
             ns.append(i)
     s = ''.join(list(map(str, ns)))
     ans = 0

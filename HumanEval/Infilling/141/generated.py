@@ -16,7 +16,7 @@ def file_name_check(file_name):
     """
     suf = ['txt', 'exe', 'dll']
     lst = file_name.split(sep='.')
-    <CODY_COMPLETE_HERE>
+    🔥
     t = len([x for x in lst[0] if x.isdigit()])
     if t > 3:
         return 'No'

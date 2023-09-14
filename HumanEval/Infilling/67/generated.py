@@ -14,5 +14,5 @@ def fruit_distribution(s,n):
     fruit_distribution("100 apples and 1 oranges",120) -> 120 - 100 - 1 = 19
     """
     lis = list()
-    <CODY_COMPLETE_HERE>
+    🔥
     return n - sum(lis)

@@ -13,4 +13,4 @@ def anti_shuffle(s):
     anti_shuffle('hello') returns 'ehllo'
     anti_shuffle('Hello World!!!') returns 'Hello !!!Wdlor'
     """
-    return ' '.join([<CODY_COMPLETE_HERE>])
+    return ' '.join([🔥])

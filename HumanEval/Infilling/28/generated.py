@@ -9,4 +9,4 @@ def concatenate(strings: List[str]) -> str:
     >>> concatenate(['a', 'b', 'c'])
     'abc'
     """
-    return <CODY_COMPLETE_HERE>join(strings)
+    return 🔥join(strings)

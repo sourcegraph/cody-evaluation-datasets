@@ -16,5 +16,5 @@ def is_happy(s):
       return False
 
     for i in range(len(s) - 2):
-       <CODY_COMPLETE_HERE>
+       🔥
     return True

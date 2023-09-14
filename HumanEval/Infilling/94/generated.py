@@ -19,6 +19,6 @@ def skjkasdkd(lst):
                 return False
 
         return True
-    <CODY_COMPLETE_HERE>
+    🔥
     result = sum(int(digit) for digit in str(maxx))
     return result

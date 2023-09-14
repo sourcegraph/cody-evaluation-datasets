@@ -35,6 +35,6 @@ def pluck(arr):
         * 0 <= node.value
     """
     if(len(arr) == 0): return []
-    <CODY_COMPLETE_HERE>
+    🔥
     if(evens == []): return []
     return [min(evens), arr.index(min(evens))]

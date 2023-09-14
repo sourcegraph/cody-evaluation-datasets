@@ -15,5 +15,5 @@ def encode(message):
     'tHKS KS C MGSSCGG'
     """
     vowels = "aeiouAEIOU"
-    <CODY_COMPLETE_HERE>
+    🔥
     return ''.join([vowels_replace[i] if i in vowels else i for i in message])

@@ -10,5 +10,5 @@ def sum_product(numbers: List[int]) -> Tuple[int, int]:
     >>> sum_product([1, 2, 3, 4])
     (10, 24)
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return sum_value, prod_value

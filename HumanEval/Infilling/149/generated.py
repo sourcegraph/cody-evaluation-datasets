@@ -15,5 +15,5 @@ def sorted_list_sum(lst):
     assert list_sort(["aa", "a", "aaa"]) => ["aa"]
     assert list_sort(["ab", "a", "aaa", "cd"]) => ["ab", "cd"]
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return sorted(new_lst, key=len)

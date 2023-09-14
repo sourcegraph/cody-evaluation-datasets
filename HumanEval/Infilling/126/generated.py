@@ -16,7 +16,7 @@ def is_sorted(lst):
     is_sorted([1, 2, 2, 3, 3, 4]) ➞ True
     is_sorted([1, 2, 2, 2, 3, 4]) ➞ False
     '''
-    <CODY_COMPLETE_HERE>
+    🔥
     if all(lst[i-1] <= lst[i] for i in range(1, len(lst))):
         return True
     else:

@@ -14,6 +14,6 @@ def simplify(x, n):
     """
     a, b = x.split("/")
     c, d = n.split("/")
-    <CODY_COMPLETE_HERE> int(numerator/denom)):
+    🔥 int(numerator/denom)):
         return True
     return False

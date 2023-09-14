@@ -10,5 +10,5 @@ def count_nums(arr):
     >>> count_nums([-1, 11, -11]) == 1
     >>> count_nums([1, 1, 2]) == 3
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return len(list(filter(lambda x: x > 0, [digits_sum(i) for i in arr])))

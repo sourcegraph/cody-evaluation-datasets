@@ -11,5 +11,5 @@ def next_smallest(lst):
     next_smallest([]) == None
     next_smallest([1, 1]) == None
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return None if len(lst) < 2 else lst[1]

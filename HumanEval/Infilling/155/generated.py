@@ -7,5 +7,5 @@ def even_odd_count(num):
         even_odd_count(-12) ==> (1, 1)
         even_odd_count(123) ==> (1, 2)
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return (even_count, odd_count)

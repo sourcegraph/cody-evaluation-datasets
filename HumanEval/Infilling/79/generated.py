@@ -13,4 +13,4 @@ def decimal_to_binary(decimal):
     decimal_to_binary(32)   # returns "db100000db"
     """
 
-    return "db" + b<CODY_COMPLETE_HERE>"db"
+    return "db" + b🔥"db"

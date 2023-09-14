@@ -18,7 +18,7 @@ def fix_spaces(text):
         if text[i] == " ":
             end += 1
         else:
-            <CODY_COMPLETE_HERE>
+            🔥
             start, end = i+1, i+1
         i+=1
     if end - start > 2:

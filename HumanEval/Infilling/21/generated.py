@@ -10,4 +10,4 @@ def rescale_to_unit(numbers: List[float]) -> List[float]:
     """
     min_number = min(numbers)
     max_number = max(numbers)
-    return [<CODY_COMPLETE_HERE> for x in numbers]
+    return [🔥 for x in numbers]

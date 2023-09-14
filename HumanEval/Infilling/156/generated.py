@@ -15,7 +15,7 @@ def int_to_mini_roman(number):
            100, 400, 500, 900, 1000] 
     sym = ["I", "IV", "V", "IX", "X", "XL",  
            "L", "XC", "C", "CD", "D", "CM", "M"] 
-    <CODY_COMPLETE_HERE>
+    🔥
         while div: 
             res += sym[i] 
             div -= 1

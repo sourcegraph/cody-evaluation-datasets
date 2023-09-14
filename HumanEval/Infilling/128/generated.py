@@ -13,5 +13,5 @@ def prod_signs(arr):
     >>> prod_signs([]) == None
     """
     if not arr: return None
-    prod =<CODY_COMPLETE_HERE>
+    prod =🔥
     return prod * sum([abs(i) for i in arr])

@@ -22,7 +22,7 @@ def by_length(arr):
             -> reverse arr -> [55, 1, -1]
       return = ['One']
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     sorted_arr = sorted(arr, reverse=True)
     new_arr = []
     for var in sorted_arr:

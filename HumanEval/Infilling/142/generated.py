@@ -16,7 +16,7 @@ def sum_squares(lst):
     result =[]
     for i in range(len(lst)):
         if i %3 == 0:
-            <CODY_COMPLETE_HERE>
+            🔥
         else:
             result.append(lst[i])
     return sum(result)

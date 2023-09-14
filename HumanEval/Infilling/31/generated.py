@@ -20,5 +20,5 @@ def is_prime(n):
     """
     if n < 2:
         return False
-    <CODY_COMPLETE_HERE>
+    🔥
     return True

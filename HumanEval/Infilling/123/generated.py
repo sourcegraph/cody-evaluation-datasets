@@ -21,7 +21,7 @@ def get_odd_collatz(n):
         odd_collatz = [] 
     else:
         odd_collatz = [n]
-    <CODY_COMPLETE_HERE>
+    🔥
             
         if n%2 == 1:
             odd_collatz.append(int(n))

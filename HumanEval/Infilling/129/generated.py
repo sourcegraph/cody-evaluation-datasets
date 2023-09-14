@@ -34,7 +34,7 @@ def minPath(grid, k):
     val = n * n + 1
     for i in range(n):
         for j in range(n):
-            <CODY_COMPLETE_HERE>
+            🔥
 
     ans = []
     for i in range(k):

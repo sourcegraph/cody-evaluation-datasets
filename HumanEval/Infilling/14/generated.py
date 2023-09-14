@@ -9,5 +9,5 @@ def all_prefixes(string: str) -> List[str]:
     """
     result = []
 
-    <CODY_COMPLETE_HERE>
+    🔥
     return result

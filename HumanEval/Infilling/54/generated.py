@@ -17,4 +17,4 @@ def same_chars(s0: str, s1: str):
     >>> same_chars('eabcdzzzz', 'dddzzzzzzzddddabc')
     False
     """
-    ret<CODY_COMPLETE_HERE>
+    ret🔥

@@ -12,5 +12,5 @@ def largest_smallest_integers(lst):
     largest_smallest_integers([]) == (None, None)
     largest_smallest_integers([0]) == (None, None)
     '''
-    <CODY_COMPLETE_HERE>
+    🔥
     return (max(smallest) if smallest else None, min(largest) if largest else None)

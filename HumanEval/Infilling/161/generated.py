@@ -11,7 +11,7 @@ def solve(s):
     solve("ab") = "AB"
     solve("#a@C") = "#A@c"
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     s = ""
     for i in new_str:
         s += i

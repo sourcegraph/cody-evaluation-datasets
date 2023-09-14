@@ -10,7 +10,7 @@ def separate_paren_groups(paren_string: str) -> List[str]:
     >>> separate_paren_groups('( ) (( )) (( )( ))')
     ['()', '(())', '(()())']
     """
-    <CODY_COMPLETE_HERE>
+    🔥
         elif c == ')':
             current_depth -= 1
             current_string.append(c)

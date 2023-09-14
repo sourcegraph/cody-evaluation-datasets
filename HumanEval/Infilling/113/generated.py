@@ -15,5 +15,5 @@ def odd_count(lst):
     res = []
     for arr in lst:
         n = sum(int(d)%2==1 for d in arr)
-        res<CODY_COMPLETE_HERE>
+        res🔥
     return res

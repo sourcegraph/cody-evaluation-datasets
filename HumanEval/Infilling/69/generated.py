@@ -14,6 +14,6 @@ def search(lst):
     frq = [0] * (max(lst) + 1)
     for i in lst:
         frq[i] += 1;
-    <CODY_COMPLETE_HERE>
+    🔥
     
     return ans

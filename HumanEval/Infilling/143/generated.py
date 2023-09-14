@@ -23,7 +23,7 @@ def words_in_sentence(sentence):
     new_lst = []
     for word in sentence.split():
         flg = 0
-        <CODY_COMPLETE_HERE>
+        🔥
         if flg == 0 or len(word) == 2:
             new_lst.append(word)
     return " ".join(new_lst)

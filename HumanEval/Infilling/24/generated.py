@@ -6,4 +6,4 @@ def largest_divisor(n: int) -> int:
     >>> largest_divisor(15)
     5
     """
-    for i in r<CODY_COMPLETE_HERE>
+    for i in r🔥

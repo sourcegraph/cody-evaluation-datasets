@@ -10,4 +10,4 @@ def right_angle_triangle(a, b, c):
     right_angle_triangle(3, 4, 5) == True
     right_angle_triangle(1, 2, 3) == False
     '''
-    return <CODY_COMPLETE_HERE>c*c == a*a + b*b
+    return 🔥c*c == a*a + b*b

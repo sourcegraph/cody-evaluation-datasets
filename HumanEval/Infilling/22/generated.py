@@ -9,4 +9,4 @@ def filter_integers(values: List[Any]) -> List[int]:
     >>> filter_integers([1, 2, 3, 'abc', {}, []])
     [1, 2, 3]
     """
-    return [x <CODY_COMPLETE_HERE>]
+    return [x 🔥]

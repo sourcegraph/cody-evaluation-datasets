@@ -18,7 +18,7 @@ def hex_key(num):
     For num = "123456789ABCDEF0" the output should be 6.
     For num = "2020" the output should be 2.
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     total = 0
     for i in range(0, len(num)):
         if num[i] in primes:

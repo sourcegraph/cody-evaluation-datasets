@@ -30,5 +30,5 @@ def eat(number, need, remaining):
     Have fun :)
     """
     if(need <= remaining):
-        <CODY_COMPLETE_HERE>
+        🔥
         return [ number + remaining , 0]

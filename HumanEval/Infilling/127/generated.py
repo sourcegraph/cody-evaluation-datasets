@@ -30,5 +30,5 @@ def intersection(interval1, interval2):
                 return False
         return True
 
-    <CODY_COMPLETE_HERE>
+    🔥
     return "NO"

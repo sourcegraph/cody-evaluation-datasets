@@ -10,6 +10,6 @@ def minSubArraySum(nums):
     """
     max_sum = 0
     s = 0
-    <CODY_COMPLETE_HERE>
+    🔥
     min_sum = -max_sum
     return min_sum

@@ -20,7 +20,7 @@ def closest_integer(value):
     '''
     from math import floor, ceil
 
-    if value<CODY_COMPLETE_HERE> == 1:
+    if value🔥 == 1:
         # remove trailing zeros
         while (value[-1] == '0'):
             value = value[:-1]

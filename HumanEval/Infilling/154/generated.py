@@ -14,5 +14,5 @@ def cycpattern_check(a , b):
     pat = b + b
     for i in range(len(a) - l + 1):
         for j in range(l + 1):
-            if<CODY_COMPLETE_HERE>
+            if🔥
     return False

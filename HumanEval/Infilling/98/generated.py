@@ -10,5 +10,5 @@ def count_upper(s):
     count_upper('dBBE') returns 0
     """
     count = 0
-    <CODY_COMPLETE_HERE>
+    🔥
     return count

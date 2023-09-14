@@ -13,6 +13,6 @@ def strange_sort_list(lst):
     '''
     res, switch = [], True
     while lst:
-        <CODY_COMPLETE_HERE>
+        🔥
         switch = not switch
     return res

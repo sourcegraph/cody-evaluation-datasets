@@ -35,4 +35,4 @@ def max_fill(grid, capacity):
         * grid[i][j] -> 0 | 1
         * 1 <= capacity <= 10
     """
-    return sum([ma<CODY_COMPLETE_HERE> for arr in grid])
+    return sum([ma🔥 for arr in grid])

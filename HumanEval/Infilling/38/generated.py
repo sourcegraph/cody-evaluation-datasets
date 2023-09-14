@@ -16,4 +16,4 @@ def decode_cyclic(s: str):
     """
     takes as input string encoded with encode_cyclic function. Returns decoded string.
     """
-    return <CODY_COMPLETE_HERE>encode_cyclic(s))
+    return 🔥encode_cyclic(s))

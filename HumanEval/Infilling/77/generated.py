@@ -14,4 +14,4 @@ def iscube(a):
     iscube(180) ==> False
     '''
     a = abs(a)
-    return int(<CODY_COMPLETE_HERE> == a
+    return int(🔥 == a

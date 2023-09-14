@@ -20,6 +20,6 @@ def any_int(x, y, z):
     '''
     
     if isinstance(x,int) and isinstance(y,int) and isinstance(z,int):
-        <CODY_COMPLETE_HERE>
+        🔥
         return False
     return False

@@ -11,4 +11,4 @@ def multiply(a, b):
     multiply(14,-15) should return 20.
     """
 
-    return <CODY_COMPLETE_HERE>abs(b % 10)
+    return 🔥abs(b % 10)

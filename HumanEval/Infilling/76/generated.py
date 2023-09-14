@@ -12,5 +12,5 @@ def is_simple_power(x, n):
     is_simple_power(3, 1) => false
     is_simple_power(5, 3) => false
     """
-    <CODY_COMPLETE_HERE>
+    🔥
     return (power == x) 

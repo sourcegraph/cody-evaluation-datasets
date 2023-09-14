@@ -12,6 +12,6 @@ def how_many_times(string: str, substring: str) -> int:
     """
     times = 0
 
-    for i in range(<CODY_COMPLETE_HERE>
+    for i in range(🔥
 
     return times

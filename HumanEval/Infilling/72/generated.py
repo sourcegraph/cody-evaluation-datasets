@@ -21,7 +21,7 @@ def will_it_fly(q,w):
     if sum(q) > w:
         return False
 
-    <CODY_COMPLETE_HERE>
+    🔥
         i+=1
         j-=1
     return True

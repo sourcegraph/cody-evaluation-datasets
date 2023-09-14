@@ -14,4 +14,4 @@ def make_a_pile(n):
     >>> make_a_pile(3)
     [3, 5, 7]
     """
-    return <CODY_COMPLETE_HERE>for i in range(n)]
+    return 🔥for i in range(n)]
