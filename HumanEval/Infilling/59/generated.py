@@ -17,6 +17,6 @@ def largest_prime_factor(n: int):
         return True
     largest = 1
     for j in range(2, n + 1):
-        if<CODY_COMPLETE_HERE>:
+        if🔥
             largest = max(largest, j)
     return largest

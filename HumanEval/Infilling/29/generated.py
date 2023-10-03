@@ -9,4 +9,4 @@ def filter_by_prefix(strings: List[str], prefix: str) -> List[str]:
     >>> filter_by_prefix(['abc', 'bcd', 'cde', 'array'], 'a')
     ['abc', 'array']
     """
-    return [x for x in strings<CODY_COMPLETE_HERE>]
+    return [x for x in strings🔥]

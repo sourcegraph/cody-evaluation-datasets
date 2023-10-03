@@ -8,4 +8,4 @@ def add(x: int, y: int):
     >>> add(5, 7)
     12
     """
-    return x<CODY_COMPLETE_HERE>
+    return x🔥

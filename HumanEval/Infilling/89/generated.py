@@ -15,7 +15,7 @@ def encrypt(s):
     out = ''
     for c in s:
         if c in d:
-            out += <CODY_COMPLETE_HERE>
+            out += 🔥
         else:
             out += c
     return out

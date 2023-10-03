@@ -15,7 +15,7 @@ def longest(strings: List[str]) -> Optional[str]:
     if not strings:
         return None
 
-<CODY_COMPLETE_HERE>
+    🔥
     for s in strings:
         if len(s) == maxlen:
             return s

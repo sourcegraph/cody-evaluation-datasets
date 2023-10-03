@@ -15,5 +15,5 @@ def parse_music(music_string: str) -> List[int]:
     >>> parse_music('o o| .| o| o| .| .| .| .| o o')
     [4, 2, 1, 2, 2, 1, 1, 1, 1, 4, 4]
     """
-<CODY_COMPLETE_HERE>
+    🔥
     return [note_map[x] for x in music_string.split(' ') if x]

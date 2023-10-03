@@ -26,4 +26,4 @@ def make_palindrome(string: str) -> str:
     while not is_palindrome(string[beginning_of_suffix:]):
         beginning_of_suffix += 1
 
-    return string + <CODY_COMPLETE_HERE>
+    return string + 🔥

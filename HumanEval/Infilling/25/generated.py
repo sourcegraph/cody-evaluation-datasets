@@ -16,7 +16,7 @@ def factorize(n: int) -> List[int]:
     import math
     fact = []
     i = 2
-    while<CODY_COMPLETE_HERE>
+    while🔥
         if n % i == 0:
             fact.append(i)
             n //= i

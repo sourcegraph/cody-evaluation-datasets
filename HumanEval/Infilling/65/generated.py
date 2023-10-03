@@ -13,4 +13,4 @@ def circular_shift(x, shift):
     if shift > len(s):
         return s[::-1]
     else:
-        retu<CODY_COMPLETE_HERE>
+        retu🔥

@@ -13,5 +13,5 @@ def is_bored(S):
     1
     """
     import re
-    sentences =<CODY_COMPLETE_HERE>
+    sentences = 🔥
     return sum(sentence[0:2] == 'I ' for sentence in sentences)

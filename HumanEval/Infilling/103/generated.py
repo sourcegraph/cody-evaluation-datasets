@@ -16,4 +16,4 @@ def rounded_avg(n, m):
     summation = 0
     for i in range(n, m+1):
         summation += i
-    return bin(<CODY_COMPLETE_HERE>)
+    return bin(🔥)

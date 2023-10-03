@@ -7,4 +7,4 @@ def add(lst):
     Examples:
         add([4, 2, 6, 7]) ==> 2 
     """
-    return sum([lst[i] for i in <CODY_COMPLETE_HERE>])
+    return sum([lst[i] for i in 🔥

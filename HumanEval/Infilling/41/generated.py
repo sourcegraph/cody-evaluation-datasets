@@ -13,4 +13,4 @@ def car_race_collision(n: int):
 
     This function outputs the number of such collisions.
     """
-    return <CODY_COMPLETE_HERE>
+    return 🔥
