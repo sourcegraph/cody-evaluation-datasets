@@ -13,7 +13,7 @@ def specialFilter(nums):
         if num > 10:
             odd_digits = (1, 3, 5, 7, 9)
             number_as_string = str(num)
-            if ◆
+            if █
                 count += 1
 
     return count

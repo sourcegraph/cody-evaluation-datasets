@@ -20,5 +20,5 @@ def get_row(lst, x):
     get_row([], 1) == []
     get_row([[], [1], [1, 2, 3]], 3) == [(2, 2)]
     """
-    coords = [(i, j) for i in range(len(lst))◆
+    coords = [(i, j) for i in range(len(lst))█
     return sorted(sorted(coords, key=lambda x: x[1], reverse=True), key=lambda x: x[0])

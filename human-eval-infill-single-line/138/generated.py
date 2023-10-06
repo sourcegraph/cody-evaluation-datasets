@@ -7,4 +7,4 @@ def is_equal_to_sum_even(n):
     is_equal_to_sum_even(6) == False
     is_equal_to_sum_even(8) == True
     """
-    return n%2 == 0 and ◆
+    return n%2 == 0 and █

@@ -14,4 +14,4 @@ def sum_to_n(n: int):
     >>> sum_to_n(1)
     1
     """
-    return sum(◆)
+    return sum(█)

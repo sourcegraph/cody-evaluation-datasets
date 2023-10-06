@@ -9,4 +9,4 @@ def filter_by_substring(strings: List[str], substring: str) -> List[str]:
     >>> filter_by_substring(['abc', 'bacd', 'cde', 'array'], 'a')
     ['abc', 'bacd', 'array']
     """
-    return [x for x in strings◆]
+    return [x for x in strings█]

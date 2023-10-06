@@ -10,6 +10,6 @@ def monotonic(l: list):
     >>> monotonic([4, 1, 0, -10])
     True
     """
-    if l == sorted(l)◆
+    if l == sorted(l)█
         return True
     return False

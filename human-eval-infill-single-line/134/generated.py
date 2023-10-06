@@ -14,5 +14,5 @@ def check_if_last_char_is_a_letter(txt):
     check_if_last_char_is_a_letter("") ➞ False
     '''
     check = txt.split(' ')[-1]
-    return True if len(check) == 1 and ◆
+    return True if len(check) == 1 and █
 

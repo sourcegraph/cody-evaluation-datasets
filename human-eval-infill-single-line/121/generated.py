@@ -9,4 +9,4 @@ def solution(lst):
     solution([3, 3, 3, 3, 3]) ==> 9
     solution([30, 13, 24, 321]) ==>0
     """
-    return sum([x for idx, x in enumerate(lst)◆
+    return sum([x for idx, x in enumerate(lst)█

@@ -21,7 +21,7 @@ def fib4(n: int):
         return results[n]
 
     for _ in range(4, n + 1):
-        results.append(◆)
+        results.append(█)
         results.pop(0)
 
     return results[-1]

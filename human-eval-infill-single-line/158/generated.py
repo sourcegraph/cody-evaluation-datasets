@@ -10,4 +10,4 @@ def find_max(words):
     find_max(["name", "enam", "game"]) == "enam"
     find_max(["aaaaaaa", "bb" ,"cc"]) == ""aaaaaaa"
     """
-    return sorted(words, key = ◆
+    return sorted(words, key = █

@@ -14,4 +14,4 @@ def digitSum(s):
         digitSum("aAaaaXa") => 153
     """
     if s == "": return 0
-    return sum(ord(char) if char◆
+    return sum(ord(char) if char█

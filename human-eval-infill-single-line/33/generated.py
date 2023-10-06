@@ -11,5 +11,5 @@ def sort_third(l: list):
     [2, 6, 3, 4, 8, 9, 5]
     """
     l = list(l)
-    ◆
+    █
     return l

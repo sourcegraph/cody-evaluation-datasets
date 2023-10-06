@@ -14,4 +14,4 @@ def add_elements(arr, k):
         1. 1 <= len(arr) <= 100
         2. 1 <= k <= len(arr)
     """
-    return sum(elem for elem in◆)
+    return sum(elem for elem in█)

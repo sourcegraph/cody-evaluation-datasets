@@ -12,4 +12,4 @@ def double_the_difference(lst):
 
     If the input list is empty, return 0.
     '''
-    return sum([i**2 for i in lst if ◆])
+    return sum([i**2 for i in lst if █])

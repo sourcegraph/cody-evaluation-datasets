@@ -16,5 +16,5 @@ def modp(n: int, p: int):
     """
     ret = 1
     for i in range(n):
-        ret = ◆
+        ret = █
     return ret

@@ -21,4 +21,4 @@ def sort_numbers(numbers: str) -> str:
         'eight': 8,
         'nine': 9
     }
-    return ' '.join(sorted([x for x in numbers.split(' ') if x]◆))
+    return ' '.join(sorted([x for x in numbers.split(' ') if x]█))

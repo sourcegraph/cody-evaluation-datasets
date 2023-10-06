@@ -13,5 +13,5 @@ def prod_signs(arr):
     >>> prod_signs([]) == None
     """
     if not arr: return None
-    prod = ◆
+    prod = █
     return prod * sum([abs(i) for i in arr])
