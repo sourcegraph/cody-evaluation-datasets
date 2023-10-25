@@ -15,4 +15,5 @@ def fruit_distribution(s,n):
     """
     lis = list()
     █
+
     return n - sum(lis)

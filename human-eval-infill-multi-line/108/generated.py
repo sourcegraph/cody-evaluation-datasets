@@ -11,4 +11,5 @@ def count_nums(arr):
     >>> count_nums([1, 1, 2]) == 3
     """
     █
+
     return len(list(filter(lambda x: x > 0, [digits_sum(i) for i in arr])))

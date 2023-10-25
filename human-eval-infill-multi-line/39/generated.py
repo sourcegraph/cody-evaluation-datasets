@@ -27,5 +27,4 @@ def prime_fib(n: int):
     f = [0, 1]
     while True:
         █
-        if n == 0:
-            return f[-1]
+

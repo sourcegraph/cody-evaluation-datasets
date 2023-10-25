@@ -9,4 +9,5 @@ def all_prefixes(string: str) -> List[str]:
     """
     result = []
     █
+
     return result

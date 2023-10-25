@@ -11,4 +11,5 @@ def fib(n: int):
     21
     """
     █
+
     return fib(n - 1) + fib(n - 2)

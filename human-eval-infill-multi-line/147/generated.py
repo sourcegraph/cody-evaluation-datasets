@@ -19,4 +19,3 @@ def get_max_triples(n):
     for i in range(n):
         for j in range(i+1,n):
             █
-    return len(ans)

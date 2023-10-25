@@ -11,4 +11,5 @@ def parse_nested_parens(paren_string: str) -> List[int]:
     [2, 3, 1, 3]
     """
     █
+
     return [parse_paren_group(x) for x in paren_string.split(' ') if x]

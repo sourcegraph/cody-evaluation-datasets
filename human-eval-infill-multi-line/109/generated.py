@@ -37,4 +37,3 @@ def move_one_ball(arr):
     my_arr=arr[min_index:]+arr[0:min_index]
     for i in range(len(arr)):
       █
-    return True

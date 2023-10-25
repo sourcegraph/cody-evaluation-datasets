@@ -16,4 +16,5 @@ def words_string(s):
 
     for letter in s:
         █
+
     return s_list.split()

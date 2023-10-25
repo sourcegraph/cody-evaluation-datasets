@@ -9,4 +9,5 @@ def greatest_common_divisor(a: int, b: int) -> int:
     5
     """
     █
+
     return a

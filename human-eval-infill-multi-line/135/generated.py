@@ -13,4 +13,5 @@ def can_arrange(arr):
     ind=-1
     i=1
     █
+
     return ind

@@ -18,4 +18,5 @@ def is_multiply_prime(a):
         if not is_prime(i): continue
         for j in range(2,101):
             █
+
     return False

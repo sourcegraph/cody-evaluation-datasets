@@ -21,4 +21,3 @@ def histogram(test):
         if(list1.count(i)>t) and i!='':
             t=list1.count(i)
     █
-    return dict1

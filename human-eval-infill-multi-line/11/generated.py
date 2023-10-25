@@ -9,4 +9,5 @@ def string_xor(a: str, b: str) -> str:
     '100'
     """
     █
+
     return ''.join(xor(x, y) for x, y in zip(a, b))

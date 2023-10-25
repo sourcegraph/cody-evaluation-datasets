@@ -10,6 +10,7 @@ def choose_num(x, y):
     choose_num(13, 12) = -1
     """
     █
+
     if x == y:
         return -1
     return y - 1

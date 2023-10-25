@@ -12,4 +12,5 @@ def order_by_points(nums):
     >>> order_by_points([]) == []
     """
     █
+
     return sorted(nums, key=digits_sum)

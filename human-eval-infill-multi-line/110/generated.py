@@ -19,4 +19,3 @@ def exchange(lst1, lst2):
         if i%2 == 1:
             odd += 1
     █
-    return "NO"

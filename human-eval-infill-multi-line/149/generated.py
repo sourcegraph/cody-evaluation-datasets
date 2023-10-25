@@ -16,4 +16,5 @@ def sorted_list_sum(lst):
     assert list_sort(["ab", "a", "aaa", "cd"]) => ["ab", "cd"]
     """
     █
+
     return sorted(new_lst, key=len)

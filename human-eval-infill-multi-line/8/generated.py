@@ -11,4 +11,5 @@ def sum_product(numbers: List[int]) -> Tuple[int, int]:
     (10, 24)
     """
     █
+
     return sum_value, prod_value

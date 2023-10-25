@@ -13,4 +13,5 @@ def is_simple_power(x, n):
     is_simple_power(5, 3) => false
     """
     █
+
     return (power == x) 

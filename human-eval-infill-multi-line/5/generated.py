@@ -16,6 +16,7 @@ def intersperse(numbers: List[int], delimeter: int) -> List[int]:
 
     for n in numbers█
 
+
     result.append(numbers[-1])
 
     return result
