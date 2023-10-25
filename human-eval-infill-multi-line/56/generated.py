@@ -15,5 +15,6 @@ def correct_bracketing(brackets: str):
     False
     """
     depth = 0
-    for b in brackets:█
+    for b in brackets:
+        █
     return depth == 0

@@ -9,5 +9,6 @@ def max_element(l: list):
     123
     """
     m = l[0]
-    for e in l:█
+    for e in l:
+        █
     return m

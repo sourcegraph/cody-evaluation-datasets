@@ -14,5 +14,6 @@ def words_string(s):
 
     s_list = []
 
-    for letter in s:█
+    for letter in s:
+        █
     return s_list.split()

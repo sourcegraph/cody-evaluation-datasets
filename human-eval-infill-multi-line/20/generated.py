@@ -14,6 +14,7 @@ def find_closest_elements(numbers: List[float]) -> Tuple[float, float]:
     distance = None
 
     for idx, elem in enumerate(numbers):
-        for idx2, elem2 in enumerate(numbers):█
+        for idx2, elem2 in enumerate(numbers):
+            █
 
     return closest_pair

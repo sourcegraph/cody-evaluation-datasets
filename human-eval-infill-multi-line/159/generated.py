@@ -29,5 +29,6 @@ def eat(number, need, remaining):
 
     Have fun :)
     """
-    if(need <= remaining):█
+    if(need <= remaining):
+        █
 

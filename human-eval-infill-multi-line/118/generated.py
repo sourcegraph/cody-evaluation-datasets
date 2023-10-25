@@ -19,6 +19,7 @@ def get_closest_vowel(word):
         return ""
 
     vowels = {"a", "e", "i", "o", "u", "A", "E", 'O', 'U', 'I'}
-    for i in range(len(word)-2, 0, -1):█
+    for i in range(len(word)-2, 0, -1):
+        █
 
     return ""
